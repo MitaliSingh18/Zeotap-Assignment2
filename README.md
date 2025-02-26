@@ -32,7 +32,7 @@ A React-based chatbot application that provides guidance on how to use various C
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cdp-chatbot.git
+   git clone https://github.com/MitaliSingh18/Zeotap-Assignment2.git
    cd Zeotap-Assignment2
    ```
 
